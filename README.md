@@ -1,36 +1,22 @@
-Netflix Data Analytics Project
+🎬 Netflix Content Explorer
 
-Project Overview
+An interactive Netflix data analytics dashboard built using Python, Pandas, Plotly, and Streamlit.
 
-This project analyzes Netflix movies and TV shows using Python.
+🚀 Live Dashboard
 
-Tools Used
+Click here to explore the interactive dashboard
 
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
+✨ Features
 
-Project Objectives
+* Interactive filters for content type, release year, country, and rating
+* KPI cards for catalogue insights
+* Visual analysis of content trends, countries, genres, and ratings
+* Searchable title explorer and filtered CSV download
 
-* Analyze Netflix content.
-* Compare Movies and TV Shows.
-* Explore ratings, countries, and genres.
-* Identify missing values in the dataset.
-* Visualize Netflix content trends.
+🛠️ Tools Used
 
-Visualizations
+Python · Pandas · Plotly · Streamlit
 
-1. Movies vs TV Shows
-2. Netflix Titles Added by Year
+🎯 Project Objective
 
-Files Included
-
-* netflix_analysis.py
-* netflix_titles.csv
-* content_type.png
-* titles_by_year.png
-
-Conclusion
-
-This project helped me practice Exploratory Data Analysis (EDA) and data visualization using Python.
+To explore the Netflix titles dataset, identify patterns in its catalogue, and communicate findings through interactive visualizations.
